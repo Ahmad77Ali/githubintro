@@ -3,3 +3,4 @@ shopping list
 Apple 
 orange
 banana
+cereal
